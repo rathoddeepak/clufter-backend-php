@@ -1,0 +1,9 @@
+[22-Jun-2021 21:27:27 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Unknown column 'data' in 'field list' query:  in /home/u921728649/domains/clufter.com/public_html/libs/db/MysqliDb.php:1911
+Stack trace:
+#0 /home/u921728649/domains/clufter.com/public_html/libs/db/MysqliDb.php(1510): MysqliDb->_prepareQuery()
+#1 /home/u921728649/domains/clufter.com/public_html/libs/db/MysqliDb.php(1450): MysqliDb->_buildQuery(NULL, Array)
+#2 /home/u921728649/domains/clufter.com/public_html/libs/db/MysqliDb.php(758): MysqliDb->_buildInsert('temp', Array, 'INSERT')
+#3 /home/u921728649/domains/clufter.com/public_html/app_api/v1.0/phone/tookan_hook.php(41): MysqliDb->insert('temp', Array)
+#4 /home/u921728649/domains/clufter.com/public_html/app_api.php(38): include('/home/u92172864...')
+#5 {main}
+  thrown in /home/u921728649/domains/clufter.com/public_html/libs/db/MysqliDb.php on line 1911

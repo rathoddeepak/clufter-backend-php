@@ -1,0 +1,922 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"marginBottom"
+			],
+			[
+				"al",
+				"alignItems"
+			],
+			[
+				"mar",
+				"marginRight"
+			],
+			[
+				"fle",
+				"flexDirection"
+			],
+			[
+				"border",
+				"borderColor"
+			],
+			[
+				"prod",
+				"productList"
+			],
+			[
+				"st",
+				"statusText"
+			],
+			[
+				"stat",
+				"statusColor"
+			],
+			[
+				"get",
+				"getProductStatus"
+			],
+			[
+				"tim",
+				"timestamp"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"c",
+				"currentTimestamp"
+			],
+			[
+				"setTime",
+				"setTimeStamp"
+			],
+			[
+				"Toas",
+				"ToastAndroid"
+			],
+			[
+				"cu",
+				"currentTimestamp"
+			],
+			[
+				"AV",
+				"AVL_FROM"
+			],
+			[
+				"T",
+				"ToastAndroid"
+			],
+			[
+				"btn",
+				"btnInner2"
+			],
+			[
+				"curr",
+				"current_id"
+			],
+			[
+				"catego",
+				"category_id"
+			],
+			[
+				"fl",
+				"flexDirection"
+			],
+			[
+				"colla",
+				"collapsed"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"main",
+				"mainCatList"
+			],
+			[
+				"init",
+				"initialState"
+			],
+			[
+				"rese",
+				"reset3"
+			],
+			[
+				"handle",
+				"handleClose"
+			],
+			[
+				"pro",
+				"productList"
+			],
+			[
+				"cover",
+				"cover_url"
+			],
+			[
+				"sub_cat",
+				"sub_cat_id"
+			],
+			[
+				"set",
+				"setDefaultValue"
+			],
+			[
+				"h",
+				"handleProductLoad"
+			],
+			[
+				"sele",
+				"selectedUrls"
+			],
+			[
+				"se",
+				"selectedUrls"
+			],
+			[
+				"font",
+				"fontFamily"
+			],
+			[
+				"fon",
+				"fontWeight"
+			],
+			[
+				"er",
+				"errorTxt"
+			],
+			[
+				"ba",
+				"backgroundColor"
+			],
+			[
+				"handel",
+				"handleClose"
+			],
+			[
+				"or",
+				"origin_id"
+			],
+			[
+				"cla",
+				"class_id"
+			],
+			[
+				"bra",
+				"brand_id"
+			],
+			[
+				"clas",
+				"class_id"
+			],
+			[
+				"in",
+				"ingrediants"
+			],
+			[
+				"un",
+				"unit_text"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"con",
+				"constructor"
+			],
+			[
+				"algi",
+				"alignSelf"
+			],
+			[
+				"dia",
+				"dialog"
+			],
+			[
+				"margin",
+				"marginTop"
+			],
+			[
+				"selected",
+				"selectedCatId"
+			],
+			[
+				"pare",
+				"parent_id"
+			],
+			[
+				"co",
+				"cogoToast"
+			],
+			[
+				"Tou",
+				"TouchableOpacity"
+			],
+			[
+				"bt",
+				"btnTxt"
+			],
+			[
+				"react",
+				"react-native-web"
+			],
+			[
+				"vali",
+				"validName"
+			],
+			[
+				"padding",
+				"paddingLeft"
+			],
+			[
+				"inc",
+				"includes"
+			],
+			[
+				"place",
+				"placeholder"
+			],
+			[
+				"marg",
+				"marginBottom"
+			],
+			[
+				"margn",
+				"marginBottom"
+			],
+			[
+				"sub",
+				"subCatList"
+			],
+			[
+				"react-n",
+				"react-native-web"
+			],
+			[
+				"mem",
+				"members"
+			],
+			[
+				"me",
+				"members"
+			],
+			[
+				"DE",
+				"DEFAULT"
+			],
+			[
+				"eq",
+				"equalTo"
+			],
+			[
+				"te",
+				"teams"
+			],
+			[
+				"ob",
+				"object"
+			],
+			[
+				"ge",
+				"getTeam"
+			],
+			[
+				"re",
+				"record"
+			],
+			[
+				"age",
+				"agents"
+			],
+			[
+				"as",
+				"async"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"expo",
+				"export"
+			],
+			[
+				"not",
+				"notchText"
+			],
+			[
+				"cit",
+				"cityList"
+			],
+			[
+				"ci",
+				"cityList"
+			],
+			[
+				"ass",
+				"assigned"
+			],
+			[
+				"order",
+				"order_id"
+			],
+			[
+				"tas",
+				"task_accepted_successfully"
+			],
+			[
+				"ta",
+				"task"
+			],
+			[
+				"pend",
+				"pending"
+			],
+			[
+				"les",
+				"lessThan"
+			],
+			[
+				"he",
+				"heroObj"
+			],
+			[
+				"ad",
+				"address_id"
+			],
+			[
+				"ref",
+				"refresh"
+			],
+			[
+				"cur",
+				"currentAddress"
+			],
+			[
+				"add",
+				"addressData"
+			],
+			[
+				"ex",
+				"extends"
+			],
+			[
+				"Touc",
+				"TouchableOpacity"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"backg",
+				"backgroundColor"
+			],
+			[
+				"backgro",
+				"backgroundColor"
+			],
+			[
+				"her",
+				"heroId"
+			],
+			[
+				"las",
+				"last_name"
+			],
+			[
+				"retun",
+				"return"
+			],
+			[
+				"date",
+				"dateData1"
+			],
+			[
+				"dat",
+				"dateText"
+			],
+			[
+				"f",
+				"fromText"
+			],
+			[
+				"Touchab",
+				"TouchableOpacity"
+			],
+			[
+				"componen",
+				"componentDidMount"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"acc",
+				"access"
+			],
+			[
+				"M",
+				"MAPBOX_TOKEN"
+			],
+			[
+				"pic",
+				"pickPoint"
+			],
+			[
+				"noti",
+				"notifyHero"
+			],
+			[
+				"ha",
+				"handleStatus"
+			],
+			[
+				"final",
+				"finalResult"
+			],
+			[
+				"ap",
+				"append"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"fre",
+				"freeHeroes"
+			],
+			[
+				"HER",
+				"HERO_BUSY"
+			],
+			[
+				"off",
+				"offline"
+			],
+			[
+				"at",
+				"attributes"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"mat",
+				"match"
+			],
+			[
+				"bord",
+				"borderWidth"
+			],
+			[
+				"render",
+				"renderHero"
+			],
+			[
+				"compon",
+				"componentDidMount"
+			],
+			[
+				"del",
+				"delivery"
+			],
+			[
+				"dl",
+				"dlvPoint"
+			],
+			[
+				"Task",
+				"TaskViewer"
+			],
+			[
+				"H",
+				"HERO_OFFLINE"
+			],
+			[
+				"sta",
+				"statusQuery"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app_api/v1.0/phone/login.php",
+			"settings":
+			{
+				"buffer_size": 4865,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server/general_methods.php",
+			"settings":
+			{
+				"buffer_size": 282556,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"te",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"t",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termi",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"term",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/clufter/dev/Server"
+	],
+	"file_history":
+	[
+		"/Users/clufter/dev/justify_backend/jbb.sublime-project",
+		"/Users/clufter/dev/Server/server/general_methods.php",
+		"/Users/clufter/dev/famdel/android/app/src/main/res/values/styles.xml",
+		"/Users/clufter/dev/famdel/src/assets/helper.js",
+		"/Users/clufter/dev/famdel/node_modules/react-native-sms-retriever/android/src/main/java/me/furtado/smsretriever/RNSmsRetrieverModule.java",
+		"/Users/clufter/dev/famdel/node_modules/react-native-sms-retriever/android/src/main/java/me/furtado/smsretriever/PhoneNumberHelper.java",
+		"/Users/clufter/dev/famdel/package.json",
+		"/Users/clufter/dev/famdel/android/build.gradle",
+		"/Users/clufter/dev/Vendor/node_modules/@react-native-community/datetimepicker/src/constants.js",
+		"/Users/clufter/dev/Vendor/package.json",
+		"/Users/clufter/dev/Vendor/node_modules/idb-keyval/package.json",
+		"/Users/clufter/dev/Vendor/metro.config.js",
+		"/Users/clufter/dev/Vendor/src/libs/idb-keyval/index.js",
+		"/Users/clufter/dev/Vendor/src/libs/idb-keyval/package.json",
+		"/Users/clufter/dev/Vendor/node_modules/idb-keyval/dist/index.js",
+		"/Users/clufter/dev/Vendor/src/assets/helper.js",
+		"/Users/clufter/dev/Vendor/android/build.gradle",
+		"/Users/clufter/dev/Vendor/node_modules/react-native-reanimated/package.json",
+		"/Users/clufter/dev/Vendor/android/gradle/wrapper/gradle-wrapper.properties",
+		"/Users/clufter/dev/Vendor/android/gradle.properties",
+		"/Users/clufter/dev/Vendor/src/libs/PlacePicker/android/gradle.properties",
+		"/Users/clufter/dev/Vendor/android/app/build/generated/rncli/src/main/java/com/facebook/react/PackageList.java",
+		"/Users/clufter/dev/Vendor/android/app/build.gradle",
+		"/Users/clufter/dev/Vendor/android/settings.gradle",
+		"/Users/clufter/dev/Vendor/src/reanimated.hack.groovy",
+		"/Users/clufter/dev/Vendor/android/app/src/main/java/com/foodbazzar/MainApplication.java",
+		"/Users/clufter/dev/Vendor/node_modules/react-native-reanimated/android/build.gradle",
+		"/Users/clufter/dev/Vendor/node_modules/react-native-reanimated/mock.js",
+		"/Users/clufter/dev/Vendor/babel.config.js",
+		"/Users/clufter/dev/Vendor/node_modules/react-native-reanimated/android/src/main/java/com/swmansion/reanimated/layoutReanimation/ReanimatedUIImplementation.java",
+		"/Users/clufter/dev/Vendor/src/components/vegNonVeg.js",
+		"/Users/clufter/dev/Vendor/src/screens/addFood.js",
+		"/Users/clufter/dev/Vendor/src/screens/photos.js",
+		"/Users/clufter/dev/Vendor/src/components/imageUploader.js",
+		"/Users/clufter/Desktop/fleetx/src/com/productScrapper.js",
+		"/Users/clufter/Desktop/fleetx/src/request.js",
+		"/Users/clufter/Desktop/fleetx/src/com/picker.js",
+		"/Users/clufter/Desktop/fleetx/src/com/multiUploader.js",
+		"/Users/clufter/Desktop/fleetx/src/com/uploader.js",
+		"/Users/clufter/Desktop/fleetx/src/screens/catManager.js",
+		"/Users/clufter/Desktop/fleetx/src/App.js",
+		"/Users/clufter/Desktop/fleetx/src/com/clsBtn.js",
+		"/Users/clufter/Downloads/VendorFood.js",
+		"/Users/clufter/Desktop/fleetx/node_modules/@uppy/status-bar/src/index.js",
+		"/Users/clufter/Desktop/fleetx/package.json",
+		"/Users/clufter/Desktop/fleetx/src/com/searchablePicker.js",
+		"/Users/clufter/Desktop/fleetx/src/screens/productManager.js",
+		"/Users/clufter/Desktop/fleetx/src/assets/helper.js",
+		"/Users/clufter/Desktop/fleetx/node_modules/react-filepond/package.json",
+		"/Users/clufter/Desktop/fleetx/node_modules/@uppy/status-bar/package.json",
+		"/Users/clufter/Desktop/fleetx/node_modules/react-filepond/lib/index.js",
+		"/Users/clufter/Desktop/fleetx/node_modules/@uppy/status-bar/lib/index.js",
+		"/Users/clufter/Desktop/fleetx/src/assets/sampleData.json",
+		"/Users/clufter/Desktop/fleetx/src/com/loader.js",
+		"/Users/clufter/Desktop/fleetx/src/com/err.js",
+		"/Users/clufter/Desktop/Fleet/app.json",
+		"/Users/clufter/Desktop/fleetx/src/com/hr.js",
+		"/Users/clufter/Desktop/Fleet/parse-dashboard-config.json",
+		"/Users/clufter/Desktop/fleetx/src/taskViewer.js",
+		"/Users/clufter/Desktop/fleetx/src/home.js",
+		"/Users/clufter/Desktop/fleetx/src/statusSwitcher.js",
+		"/Users/clufter/Desktop/fleetx/src/order.js",
+		"/Users/clufter/Desktop/fleetx/src/icon.js",
+		"/Users/clufter/Desktop/fleetx/src/datePicker.js",
+		"/Users/clufter/Desktop/fleetx/src/dashboard.js",
+		"/Users/clufter/Desktop/fleetx/src/assets/package.json",
+		"/Users/clufter/Desktop/fleetx/src/screens/package.json",
+		"/Users/clufter/Desktop/Fleet/cloud/agentFunctions.js",
+		"/Users/clufter/Desktop/Fleet/cloud/utils.js",
+		"/Users/clufter/Desktop/Fleet/cloud/main.js",
+		"/Users/clufter/Desktop/Fleet/terminal",
+		"/Users/clufter/Desktop/Fleet/cloud/helper.js",
+		"/Users/clufter/Desktop/Fleet/cloud/functions.js",
+		"/Users/clufter/Desktop/fleetx/build/index.html",
+		"/Users/clufter/Desktop/fleetx/src/multiSlider/sliderCustomLabel.js",
+		"/Users/clufter/Desktop/fleetx/src/multiSlider/MultiSlider.js",
+		"/Users/clufter/Desktop/fleetx/src/multiSlider/DefaultLabel.js",
+		"/Users/clufter/Desktop/fleetx/craco.config.js",
+		"/Users/clufter/Desktop/fleetx/package-lock.json",
+		"/Users/clufter/Desktop/fleetx/src/response.js",
+		"/Users/clufter/Desktop/fleetx/src/helper.js",
+		"/Users/clufter/Desktop/fleetx/public/index.html",
+		"/Users/clufter/Desktop/703844.php",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/components/OrderCard.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/db/Vendor.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/db/User.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/LiveOrdersHelper.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/Login.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/libs/ReceiptBuilder.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/libs/Helper.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/components/OrderList.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/components/VendorList.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/db/Connect.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/LiveOrders.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/Model/OrderItem.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/components/ProgressTimer.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/components/Stepper.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/NewOrders.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/Vendors.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/Main.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/Model/UserDB.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/libs/FormData.java",
+		"/Users/clufter/Downloads/Receipt-2.js",
+		"/Users/clufter/Downloads/KotService.js",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/Settings.java",
+		"/Users/clufter/NetBeansProjects/Clufter/pom.xml",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/libs/ImageHelper.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/Model/VendorDB.java",
+		"/Users/clufter/Desktop/vendor2.php",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/de/milchreis/uibooster/model/UiBoosterOptions.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/de/milchreis/uibooster/model/options/DarkUiBoosterOptions.java",
+		"/Users/clufter/Desktop/clfjava/Main.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/db/Config.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/components/VendorCard.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/components/Header.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/de/milchreis/uibooster/UiBooster.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/libs/Query/QueryElements/FinishableQuery.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/libs/Query/QueryElements/IFinishableQuery.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/libs/Query/QueryElements/Query.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/libs/Query/InsertQueryElements/IInsertQuery.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/libs/Query/InsertQueryElements/IInsertRestOfValuesQuery.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/libs/Query/InsertQueryElements/InsertQuery.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/libs/Query/InsertQueryElements/InsertRestOfValuesQuery.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/libs/Query/DeleteQueryElements/DeleteQuery.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/libs/Query/DeleteQueryElements/IDeleteQuery.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/libs/Query.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/libs/Query/SqlQueryBuilderHelper.java",
+		"/Users/clufter/NetBeansProjects/Clufter/src/main/java/com/clufter/libs/Query/UpdateQueryElements/IUpdateQuery.java"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app_api/v1.0/phone/login.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4865,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4710,
+								4710
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "server/general_methods.php",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 282556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11997,
+								11997
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 178.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "clufter_server.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/satva/temp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,17 @@
+RewriteEngine On
+Options -Indexes
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^404$ index.php?link=404 [NC,QSA]
+RewriteRule ^404/$ index.php?link=404 [NC,QSA]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^admin-panel/$ admin.php?link=dashboard [NC,QSA]
+RewriteRule ^admin-panel$ admin.php?link=dashboard [NC,QSA]
+RewriteRule ^admin-panel/(.*)$ admin.php?link=$1 [NC,QSA]
+
+RewriteRule ^menu/(.*)$ menu.php?partner=$1 [NC,QSA]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?link=$1 [NC,QSA]
